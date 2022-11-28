@@ -8,7 +8,7 @@ Ejercicios para nivelar JavaScript.
 
 ## Sesión 2
 - [***Int max***](excercises/int-max/)
-- [***Icy hot***](excercises/hello-name/)
+- [***Icy hot***](excercises/icy-hot/)
 - [***Remove string spaces***](excercises/remove-string-spaces/)
 
 ## Sesión 3
