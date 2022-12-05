@@ -14,3 +14,9 @@ Ejercicios para nivelar JavaScript.
 ## Sesión 3
 - [***First last 6***](excercises/first-last-6/)
 - [***Combo string***](excercises/combo-string/)
+
+## Sesión 4
+- [***Red Ticket***](excercises/red-ticket/)
+- [***Teen Sum***](excercises/teen-sum/)
+- [***Abbreviate a Two Word Name***](excercises/abbreviation/)
+- [***Remove First and Last Character***](excercises/remove-character/)
